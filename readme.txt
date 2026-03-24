@@ -9,3 +9,4 @@ add merge3 with ff only.
 git stash is working...
 init hello
 add comment
+add author
