@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 add merge.
 add merge2 with ff.
 add merge3 with ff only.
-
+git stash is working...
