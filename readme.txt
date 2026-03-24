@@ -8,3 +8,4 @@ add merge2 with ff.
 add merge3 with ff only.
 git stash is working...
 init hello
+add comment
